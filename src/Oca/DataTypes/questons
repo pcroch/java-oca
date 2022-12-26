@@ -1,0 +1,23 @@
+Question:
+1
+2:where is stored an unitilized variable
+all the variables which are initialized to some value in the code will be stored in the . data section. all the variables which are not initialized, will be initialized to 0 by the compiler and stored in the . bss section.
+(= data segment)
+
+3
+
+
+
+9. Why local variables do not have default values?
+local variables are declared mostly to do some calculation. So it's the programmer's decision to set the value of the variable and it should not take a default value. We should   not use local variables with out initialization
+
+
+16. quid?
+17.?
+
+
+19. !!!
+
+
+
+45.
